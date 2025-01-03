@@ -2,51 +2,51 @@
 
 
 
-// function oppgave1() {
+function oppgave1() {
 
-//     let text = "røyken VGS"
-//     document.write("<table>")
+    let text = "røyken VGS"
+    document.write("<table>")
 
-//     for (let i = 0; i < 3; i++) {
+    for (let i = 0; i < 3; i++) {
 
-//         document.write("<tr>")
+        document.write("<tr>")
 
-//         for (let j = 0; j < 3; j++) {
+        for (let j = 0; j < 3; j++) {
 
-//             document.write("<td>Royken VGS</td>")  
+            document.write("<td>Royken VGS</td>")  
 
-//         }
+        }
 
-//         document.write("</tr>")
+        document.write("</tr>")
         
         
-//     }
-//     document.write("</table>")
+    }
+    document.write("</table>")
     
-// }
+}
 
-// oppgave1()
+oppgave1()
 
 
 
 // Oppgave 2
 
-// function oppgave2() {
+function oppgave2() {
 
-//     let stjerne = "*"
+    let stjerne = "*"
 
-//     for (let i = 0; i < 10; i++) {
+    for (let i = 0; i < 10; i++) {
         
-//         stjerne = " " + stjerne
+        stjerne = " " + stjerne
 
-//         document.write(`<br>`)
-//         document.write(stjerne)
+        document.write(`<br>`)
+        document.write(stjerne)
         
-//     }
+    }
     
-// }
+}
 
-// oppgave2()
+oppgave2()
 
 
 
